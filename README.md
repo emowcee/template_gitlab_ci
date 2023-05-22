@@ -1,4 +1,3 @@
-Certainly! Here's an example README file for your CI/CD pipeline project:
 
 # CI/CD Pipeline for Sample Application
 
